@@ -16,5 +16,4 @@ while True:
             
             
                 
-          
-My internship python project 
+      
